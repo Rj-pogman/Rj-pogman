@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rj-pogman
-- 👀 I’m interested in ...graphic designing
-- 🌱 I’m currently learning ...Machine learning
-- 💞️ I’m looking to collaborate on ...machine learning
+- 👀 I’m interested in ...IC designing.
+- 🌱 I’m currently learning ...Analog elctronics,Verilog implementation.
+- 💞️ I’m looking to collaborate on ..vlsi field.
 - 📫 How to reach me ...my gmail : rajdeepghosh2003@gmail.com
 
 <!---
